@@ -1,0 +1,7 @@
+pandas
+matplotlib
+seaborn
+scikit-learn==1.1.2
+jupyter
+gradio
+email-validator==2.0
